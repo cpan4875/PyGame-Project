@@ -5,4 +5,5 @@
 <p> Survive the as long as you can from the fireball. The fireball will follow you for the whole game untill your health drop to zero. You use button:A to move left and button:D to move right. You use the left arrow key to attack left side and right arrow key to attack right side. You have total health of 100 and each fireball deals 5 to your health.</p>
 <br>
 <a href="http://www.lfd.uci.edu/~gohlke/pythonlibs/#pygame"> Python File</a>
+<br>
 <a href="https://youtu.be/_GikMdhAhv0"> Youtube Video</a>
